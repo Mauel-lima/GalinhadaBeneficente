@@ -36,6 +36,9 @@ ul{
     font-weight: bold;
 }
 
-.videos{
-    text-align: center;
+video{
+    width: 200px;
+    margin: 0 auto;
+    margin:0 auto;
+    display: block;
 }
